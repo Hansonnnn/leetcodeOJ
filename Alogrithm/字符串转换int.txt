@@ -1,0 +1,35 @@
+关于字符串转换为整数，需要考虑到字符串各种会出现的情况
+1.当第一个字符为“+”或“-”表示字符为正数或负数
+2.当字符中出现非0~9数字的字符，将字符计算为数值返回
+3.当出现空格字符
+4.当出现符合0~9数字的字符，直接跳出返回。
+下面是C++实现：        
+#include<iostream>
+using namespace std;
+int str2int(const char *str){
+int temp=0;
+const char *ptr=str //ptr保存str字符串开头
+if(*str==''||*str=='+')//如果得到的第一个字符是正负号，跳过
+{
+    str++;
+}
+while(*str!=0){
+    if((*str<'0')||(*str>'9')){
+      break;
+    }
+    temp=temp*10+(*str-'0')//计算数值 
+    str++;
+}
+if(*ptr=='-'){
+    temp=-temp;
+}
+return temp;
+}
+int main()
+{
+  int n=0;
+  char p[10]="";
+  cin.getline(p,20);
+  n=str2int(p);
+  cout<<n<<endl;
+}
