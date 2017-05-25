@@ -1,14 +1,16 @@
-(3)Add two number
-Question:����������������������ѧ�ӷ����㡣
-Example:
+#### Add two number
+
+>Question:给出两链表，进行类似数学加法计算。
+
+>Example:
 Input: (2 -> 4 -> 3) + (5 -> 6 -> 4)
+
 Output: 7 -> 0 -> 8
-����ʼ����һ���ڵ�Ϊ0 ����������������һ��ָ�����Ľڵ㣬�����Ժ�next������һ���ɡ�
 
-������滹Ҫע��ļӷ���λ�Լ��Ƿ�һ�����Ѿ�������ϣ������滹��λ���Ŀ����ԡ�
+>程序开始设立一个节点为0 的链表，并再设立一个指向他的节点，方便以后next。这是一大技巧。
+程序后面还要注意的加法进位以及是否一个数已经计算完毕，但后面还有位数的可能性。
 
-Java code:
-
+```
 int flag = 0;
 ListNode list1 = new ListNode(0);
 ListNode list2 = new ListNode(0);
