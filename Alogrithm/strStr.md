@@ -1,4 +1,4 @@
-mplement strStr()
+### Implement strStr()
 
 >Implement strStr().
 
