@@ -31,6 +31,8 @@
 - [69 SqrtX](https://github.com/Hansonnnn/leetcodeOJ/blob/master/algorithms/69_SqrtX.md)
 - [88 Merge Sorted Array I](https://github.com/Hansonnnn/leetcodeOJ/blob/master/algorithms/88_MergeSortedArrayI.md)
 - [678 Valid Parenthesis String](https://github.com/Hansonnnn/leetcodeOJ/blob/master/algorithms/678_ValidParenthesisString.md)
+- [54 Spiral Matrix](https://github.com/Hansonnnn/leetcodeOJ/blob/master/algorithms/54_SpiralMatrix.md)
+- [62 Unique Paths](https://github.com/Hansonnnn/leetcodeOJ/blob/master/algorithms/62_UniquePaths.md) 
 - [Binary earch](https://github.com/Hansonnnn/leetcodeOJ/blob/master/algorithms/BinarySearch.md)
 - [Majority Element](https://github.com/Hansonnnn/leetcodeOJ/blob/master/algorithms/HashMap.md)
 - [Joseph](https://github.com/Hansonnnn/leetcodeOJ/blob/master/algorithms/Joseph.md)
