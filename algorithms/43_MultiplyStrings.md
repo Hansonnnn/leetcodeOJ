@@ -23,7 +23,7 @@ Output: "56088"
 
 ## Solution
 
-![image](../images/43_MultiplyStrings)
+![image](../images/43_MultiplyStrings.png)
 
 ```
 class Solution:
