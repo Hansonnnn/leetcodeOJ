@@ -32,13 +32,13 @@ class Solution:
         lo = 0
         hi = N2 * 2
         while lo <= hi:
-            mid2 = int((lo + hi) / 2)
+            mid2 = (lo + hi) // 2
             mid1 = N1 + N2 - mid2
 
-            l1: float = INT_MIN if (mid1 == 0) else nums1[int((mid1 - 1) / 2)]
-            l2: float = INT_MIN if (mid2 == 0) else nums2[int((mid2 - 1) / 2)]
-            r1: float = INT_MAX if (mid1 == N1 * 2) else nums1[int(mid1 / 2)]
-            r2: float = INT_MAX if (mid2 == N2 * 2) else nums2[int(mid2 / 2)]
+            l1: float = INT_MIN if (mid1 == 0) else nums1[(mid1 - 1) // 2]
+            l2: float = INT_MIN if (mid2 == 0) else nums2[(mid2 - 1) // 2]
+            r1: float = INT_MAX if (mid1 == N1 * 2) else nums1[mid1 // 2]
+            r2: float = INT_MAX if (mid2 == N2 * 2) else nums2[mid2 // 2]
 
             if l1 > r2:
                 lo = mid2 + 1
