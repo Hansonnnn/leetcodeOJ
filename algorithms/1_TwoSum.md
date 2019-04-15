@@ -29,6 +29,16 @@ public int[] twoSum(int[] nums, int target) {
       return res;
 }
 ```
-
+## Solution 2
+```python
+class Solution:
+    def twoSum(self, nums, target):
+        kv = {}
+        for i in range(len(nums)):
+            another = target - nums[i]
+            if another in kv:
+                return [kv[another], i]
+            kv[nums[i]] = i
+```
 link: https://leetcode.com/problems/two-sum/
 
