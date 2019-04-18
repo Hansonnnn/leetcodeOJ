@@ -18,6 +18,7 @@
 - [23 Merge K Sorted Lists](https://github.com/Hansonnnn/leetcodeOJ/blob/master/algorithms/23_MergeKSortedLists.md)
 - [28 Implement StrStr](https://github.com/Hansonnnn/leetcodeOJ/blob/master/algorithms/28_ImplementStrStr.md)
 - [30 Substring With Concatenation Of All Words](https://github.com/Hansonnnn/leetcodeOJ/blob/master/algorithms/30_SubstringWithConcatenationOfAllWords.md)
+- [32 Longest Valid Parentheses](https://github.com/Hansonnnn/leetcodeOJ/blob/master/algorithms/32_LongestValidParentheses.md)
 - [33 Search In Rotated Sorted Array](https://github.com/Hansonnnn/leetcodeOJ/blob/master/algorithms/33_SearchInRotatedSortedArray.md)
 - [34 Search Range](https://github.com/Hansonnnn/leetcodeOJ/blob/master/algorithms/34_SearchRange.md)
 - [35 Search Insert Position](https://github.com/Hansonnnn/leetcodeOJ/blob/master/algorithms/35_SearchInsertPosition.md)
