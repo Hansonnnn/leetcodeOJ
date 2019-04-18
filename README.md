@@ -33,6 +33,7 @@
 - [64 Minimum Path Sum](https://github.com/Hansonnnn/leetcodeOJ/blob/master/algorithms/64_MinimumPathSum.md)
 - [67 Add Binary](https://github.com/Hansonnnn/leetcodeOJ/blob/master/algorithms/67_AddBinary.md)
 - [69 SqrtX](https://github.com/Hansonnnn/leetcodeOJ/blob/master/algorithms/69_SqrtX.md)
+- [70 Climbing Stairs](https://github.com/Hansonnnn/leetcodeOJ/blob/master/algorithms/70_climbingStairs.md)
 - [74 Search a 2D matrix](https://github.com/Hansonnnn/leetcodeOJ/blob/master/algorithms/74_search-a-2d-matrix.md)
 - [88 Merge Sorted Array I](https://github.com/Hansonnnn/leetcodeOJ/blob/master/algorithms/88_MergeSortedArrayI.md)
 - [121 Best Time To Buy And Sell Stock](https://github.com/Hansonnnn/leetcodeOJ/blob/master/algorithms/121_BestTimeToBuyAndSellStock.md)
