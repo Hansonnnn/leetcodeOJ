@@ -37,6 +37,7 @@
 - [74 Search a 2D matrix](https://github.com/Hansonnnn/leetcodeOJ/blob/master/algorithms/74_search-a-2d-matrix.md)
 - [88 Merge Sorted Array I](https://github.com/Hansonnnn/leetcodeOJ/blob/master/algorithms/88_MergeSortedArrayI.md)
 - [121 Best Time To Buy And Sell Stock](https://github.com/Hansonnnn/leetcodeOJ/blob/master/algorithms/121_BestTimeToBuyAndSellStock.md)
+- [139 Word Break](https://github.com/Hansonnnn/leetcodeOJ/blob/master/algorithms/139_WordBreak.md)
 - [516 longest Palindrome Subseq](https://github.com/Hansonnnn/leetcodeOJ/blob/master/algorithms/516_longestPalindromeSubseq.md)
 - [678 Valid Parenthesis String](https://github.com/Hansonnnn/leetcodeOJ/blob/master/algorithms/678_ValidParenthesisString.md)
 - [54 Spiral Matrix](https://github.com/Hansonnnn/leetcodeOJ/blob/master/algorithms/54_SpiralMatrix.md)
