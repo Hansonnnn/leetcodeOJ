@@ -40,6 +40,7 @@
 - [139 Word Break](https://github.com/Hansonnnn/leetcodeOJ/blob/master/algorithms/139_WordBreak.md)
 - [152 Maximum Product Subarray](https://github.com/Hansonnnn/leetcodeOJ/blob/master/algorithms/152_MaximumProductSubarray.md)
 - [198 House Robber](https://github.com/Hansonnnn/leetcodeOJ/blob/master/algorithms/198_HouseRobber.md)
+- [264 ugly Number II](https://github.com/Hansonnnn/leetcodeOJ/blob/master/algorithms/264_uglyNumberII.md)
 - [516 longest Palindrome Subseq](https://github.com/Hansonnnn/leetcodeOJ/blob/master/algorithms/516_longestPalindromeSubseq.md)
 - [678 Valid Parenthesis String](https://github.com/Hansonnnn/leetcodeOJ/blob/master/algorithms/678_ValidParenthesisString.md)
 - [54 Spiral Matrix](https://github.com/Hansonnnn/leetcodeOJ/blob/master/algorithms/54_SpiralMatrix.md)
