@@ -36,6 +36,7 @@
 - [70 Climbing Stairs](https://github.com/Hansonnnn/leetcodeOJ/blob/master/algorithms/70_climbingStairs.md)
 - [74 Search a 2D matrix](https://github.com/Hansonnnn/leetcodeOJ/blob/master/algorithms/74_search-a-2d-matrix.md)
 - [88 Merge Sorted Array I](https://github.com/Hansonnnn/leetcodeOJ/blob/master/algorithms/88_MergeSortedArrayI.md)
+- [96 Unique Binary Search Trees](https://github.com/Hansonnnn/leetcodeOJ/blob/master/algorithms/96_UniqueBinarySearchTrees.md)
 - [121 Best Time To Buy And Sell Stock](https://github.com/Hansonnnn/leetcodeOJ/blob/master/algorithms/121_BestTimeToBuyAndSellStock.md)
 - [139 Word Break](https://github.com/Hansonnnn/leetcodeOJ/blob/master/algorithms/139_WordBreak.md)
 - [152 Maximum Product Subarray](https://github.com/Hansonnnn/leetcodeOJ/blob/master/algorithms/152_MaximumProductSubarray.md)
