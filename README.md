@@ -49,4 +49,4 @@
 - [Majority Element](https://github.com/Hansonnnn/leetcodeOJ/blob/master/algorithms/HashMap.md)
 - [Joseph](https://github.com/Hansonnnn/leetcodeOJ/blob/master/algorithms/Joseph.md)
 - [K Max](https://github.com/Hansonnnn/leetcodeOJ/blob/master/algorithms/KMax.md)
-
+- [BST](https://github.com/Hansonnnn/leetcodeOJ/blob/master/algorithms/BST.md)
